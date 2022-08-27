@@ -1,0 +1,2 @@
+E:/MinGW/mingw64/bin/ar.exe qc libWBAES_LIB.a CMakeFiles/WBAES_LIB.dir/src/WBMatrix/WBMatrix.c.obj CMakeFiles/WBAES_LIB.dir/src/WBMatrix/random.c.obj CMakeFiles/WBAES_LIB.dir/src/aes.c.obj CMakeFiles/WBAES_LIB.dir/src/wbaes.c.obj
+E:/MinGW/mingw64/bin/ranlib.exe libWBAES_LIB.a
