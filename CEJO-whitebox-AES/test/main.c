@@ -27,6 +27,6 @@ int main(int argc, char * argv[])
     
     aes_128_encrypt(IN, key, OOUT);
     printstate(OOUT);
-
+    
     return 0;
 }
